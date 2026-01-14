@@ -1,0 +1,5 @@
+{
+  "name": "LottieFlow - Pro Lottie Previewer",
+  "description": "A high-performance Lottie animation previewer capable of handling large JSON files with real-time controls and AI-powered animation analysis.",
+  "requestFramePermissions": []
+}
